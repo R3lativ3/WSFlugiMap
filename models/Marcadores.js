@@ -16,6 +16,10 @@ class Marcadores{
     actualizarMarcador( marcador ){
         this.activos[ marcador.id ] = marcador
     }
+
+    actualizarMarcador2( marcador ){
+        this.activos[ marcador.id ] = marcador
+    }
     
 }
 
