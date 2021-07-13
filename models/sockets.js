@@ -34,7 +34,8 @@ class Sockets {
                 socket.broadcast.emit('marcador-actualizado', marcador)
             
             })
-        
+
+            
         });
     }
 
